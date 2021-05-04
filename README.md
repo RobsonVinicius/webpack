@@ -1,4 +1,4 @@
-<img src="https://victorzhou.com/media/webpack.png" width="700"/>
+<img src="https://victorzhou.com/media/webpack.png" />
 
 # Webpack
  
