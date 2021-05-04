@@ -1,4 +1,10 @@
 ﻿# Webpack
  
+ Este repositório é dedicado a estudos e links sobre webpack
  
- [Webpack Guide Oficial](https://webpack.js.org/guides/getting-started/)
+ <br>
+ 
+- [Webpack Guide Oficial](https://webpack.js.org/guides/getting-started/)
+- [Webpack Github](https://github.com/webpack)
+- [Entendendo os conceitos do webpack](https://medium.com/rocketseat/entendendo-e-dominando-o-webpack-4b2e8b3e02da)
+- [As partes confusas do webpack](https://oieduardorabelo.medium.com/as-partes-confusas-do-webpack-f218cfb2d673)
