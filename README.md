@@ -12,3 +12,5 @@
 - [Webpack Github](https://github.com/webpack)
 - [Entendendo os conceitos do webpack](https://medium.com/rocketseat/entendendo-e-dominando-o-webpack-4b2e8b3e02da)
 - [As partes confusas do webpack](https://oieduardorabelo.medium.com/as-partes-confusas-do-webpack-f218cfb2d673)
+- [How to Use Webpack](https://www.taniarascia.com/how-to-use-webpack/)
+
